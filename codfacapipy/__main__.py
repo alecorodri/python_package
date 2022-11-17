@@ -2,13 +2,6 @@ import logging
 
 from codfacapipy import unreleased
 
-"""
-info -> 10
-debug -> 20
-warning -> 30
-error -> 40
-critical -> 50
-"""
 
 logging.basicConfig(level=logging.DEBUG)
 
