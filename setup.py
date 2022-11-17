@@ -13,7 +13,7 @@ GITHUB_URL = 'alecorodri/codfacapipy'
 
 setup(
     name = PACKAGE_NAME,
-    packages = [DESCRIPTION],
+    packages = [PACKAGE_NAME],
     version = VERSION,
     license='MIT',
     description = DESCRIPTION,
